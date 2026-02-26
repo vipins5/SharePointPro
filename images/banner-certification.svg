@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Certifications Banner</title>
+  <desc id="desc">Certification themed banner with badge and checkmark motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#17322d"/>
+      <stop offset="50%" stop-color="#1f5b56"/>
+      <stop offset="100%" stop-color="#2d6f9a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <text x="70" y="110" fill="#f0fffb" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">CERTIFICATIONS</text>
+  <text x="70" y="145" fill="#ccfff1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Validated learning, credentials, and professional links</text>
+  <g transform="translate(95 180)">
+    <rect x="0" y="0" width="420" height="165" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <rect x="28" y="30" width="180" height="20" rx="10" fill="#9bffe0" fill-opacity="0.8"/>
+    <rect x="28" y="64" width="320" height="12" rx="6" fill="#ffffff" fill-opacity="0.28"/>
+    <rect x="28" y="88" width="286" height="12" rx="6" fill="#ffffff" fill-opacity="0.22"/>
+    <rect x="28" y="112" width="250" height="12" rx="6" fill="#ffffff" fill-opacity="0.18"/>
+  </g>
+  <g transform="translate(740 95)">
+    <circle cx="150" cy="120" r="92" fill="#d6fff3" fill-opacity="0.22" stroke="#e8fff8" stroke-opacity="0.45" stroke-width="4"/>
+    <circle cx="150" cy="120" r="68" fill="#7ef0ce" fill-opacity="0.3" stroke="#caffef" stroke-opacity="0.35"/>
+    <path d="M117 122 L142 147 L185 102" fill="none" stroke="#ecfff8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M107 205 L135 250 L150 230 L165 250 L193 205" fill="#8bd8ff" fill-opacity="0.55"/>
+  </g>
+  <g fill="none" stroke="#e3fff8" stroke-opacity="0.22">
+    <path d="M610 95 H700"/><path d="M610 130 H700"/><path d="M610 165 H700"/>
+    <path d="M610 200 H700"/><path d="M610 235 H700"/><path d="M610 270 H700"/>
+  </g>
+</svg>

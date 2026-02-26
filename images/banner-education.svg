@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Education Banner</title>
+  <desc id="desc">Education themed banner with book and graduation cap graphics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f1c49"/>
+      <stop offset="50%" stop-color="#39487d"/>
+      <stop offset="100%" stop-color="#4f8ca8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <text x="70" y="110" fill="#f7f3ff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">EDUCATION</text>
+  <text x="70" y="146" fill="#ddd8ff" font-family="Segoe UI, Arial, sans-serif" font-size="18">Academic foundation supporting enterprise technology career growth</text>
+  <g transform="translate(90 190)">
+    <path d="M0 30 Q80 0 160 30 V150 Q80 120 0 150 Z" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.25"/>
+    <path d="M160 30 Q240 0 320 30 V150 Q240 120 160 150 Z" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2"/>
+    <line x1="160" y1="30" x2="160" y2="150" stroke="#ffffff" stroke-opacity="0.2"/>
+    <line x1="30" y1="58" x2="130" y2="42" stroke="#dfe9ff" stroke-opacity="0.4"/>
+    <line x1="30" y1="82" x2="130" y2="66" stroke="#dfe9ff" stroke-opacity="0.28"/>
+    <line x1="30" y1="106" x2="130" y2="90" stroke="#dfe9ff" stroke-opacity="0.22"/>
+    <line x1="190" y1="58" x2="290" y2="42" stroke="#dfe9ff" stroke-opacity="0.4"/>
+    <line x1="190" y1="82" x2="290" y2="66" stroke="#dfe9ff" stroke-opacity="0.28"/>
+    <line x1="190" y1="106" x2="290" y2="90" stroke="#dfe9ff" stroke-opacity="0.22"/>
+  </g>
+  <g transform="translate(700 150)">
+    <polygon points="0,30 140,0 280,30 140,60" fill="#b9d6ff" fill-opacity="0.6"/>
+    <polygon points="35,60 140,34 245,60 140,86" fill="#ffffff" fill-opacity="0.16"/>
+    <line x1="280" y1="30" x2="330" y2="70" stroke="#e9f3ff" stroke-width="3" stroke-opacity="0.6"/>
+    <circle cx="330" cy="70" r="7" fill="#e9f3ff" fill-opacity="0.8"/>
+    <line x1="330" y1="70" x2="330" y2="120" stroke="#e9f3ff" stroke-width="2" stroke-opacity="0.55"/>
+    <rect x="316" y="118" width="28" height="34" rx="6" fill="#a0ffe7" fill-opacity="0.65"/>
+  </g>
+  <g fill="#ffffff" opacity="0.07">
+    <circle cx="1030" cy="85" r="95"/>
+    <circle cx="1120" cy="325" r="85"/>
+  </g>
+</svg>

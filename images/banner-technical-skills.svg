@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Technical Skills Banner</title>
+  <desc id="desc">Abstract technology themed banner with code and network elements.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e1f3b"/>
+      <stop offset="50%" stop-color="#173d63"/>
+      <stop offset="100%" stop-color="#0d6d8a"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <circle cx="1040" cy="70" r="110" fill="#7be0ff" opacity="0.12"/>
+  <circle cx="980" cy="330" r="150" fill="#4fd1b8" opacity="0.12"/>
+  <rect x="70" y="70" width="520" height="280" rx="18" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.15"/>
+  <text x="105" y="135" fill="#dff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">TECHNICAL SKILLS</text>
+  <text x="105" y="188" fill="#9fe4ff" font-family="Consolas, monospace" font-size="22">&lt;/&gt; PowerShell  SharePoint  OneDrive</text>
+  <text x="105" y="224" fill="#9fe4ff" font-family="Consolas, monospace" font-size="22">SPFx  Power Platform  M365 Support</text>
+  <g fill="none" stroke="#c9f5ff" stroke-opacity="0.65" stroke-width="2">
+    <path d="M700 110 L790 150 L860 115 L960 175 L1060 135"/>
+    <path d="M730 260 L820 220 L910 255 L1020 215 L1110 255"/>
+  </g>
+  <g fill="#e8fbff">
+    <circle cx="700" cy="110" r="7"/><circle cx="790" cy="150" r="7"/><circle cx="860" cy="115" r="7"/><circle cx="960" cy="175" r="7"/><circle cx="1060" cy="135" r="7"/>
+    <circle cx="730" cy="260" r="7"/><circle cx="820" cy="220" r="7"/><circle cx="910" cy="255" r="7"/><circle cx="1020" cy="215" r="7"/><circle cx="1110" cy="255" r="7"/>
+  </g>
+  <g>
+    <rect x="700" y="300" width="420" height="14" rx="7" fill="#ffffff" opacity="0.16"/>
+    <rect x="700" y="300" width="320" height="14" rx="7" fill="#79f2ff" opacity="0.9"/>
+    <rect x="700" y="330" width="420" height="14" rx="7" fill="#ffffff" opacity="0.16"/>
+    <rect x="700" y="330" width="270" height="14" rx="7" fill="#8dffa8" opacity="0.9"/>
+  </g>
+</svg>
